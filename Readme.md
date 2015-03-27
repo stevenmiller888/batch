@@ -1,7 +1,7 @@
 
 # batch
 
-Queue functions and run them in a batch
+Queue functions and run them in parallel
 
 ## Example
 
