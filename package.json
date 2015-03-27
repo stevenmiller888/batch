@@ -1,0 +1,13 @@
+{
+  "name": "batch",
+  "version": "0.0.1",
+  "repository": "stevenmiller888/batch.git",
+  "description": "Execute a batch of functions in parallel",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "1.x",
+    "should": "^5.2.0"
+  },
+  "license": "MIT"
+}
